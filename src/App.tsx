@@ -29,8 +29,8 @@ const posts = [
       role: 'Dev Front-End',
     },
     content: [
-      {type: 'paragraph', content: 'Fala galeraa 👋'},
-      {type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀'},
+      {type: 'paragraph', content: '👋 oi pessoal 👋 '},
+      {type: 'paragraph', content: 'Finalmente finalizei meu novo site/portfólio. Foi um baita desafio criar todo o design e codar na unha, mas consegui 💪🏻 '},
       
     ],
     publishedAt: new Date('2024-05-18 20:00:00'),
